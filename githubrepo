@@ -1,0 +1,25 @@
+curl -s https://api.github.com/repos/prathmeshparase/expressBookReviews
+{
+  "id": 876543210,
+  "node_id": "R_kgDONG...",
+  "name": "expressBookReviews",
+  "full_name": "prathmeshparase/expressBookReviews",
+  "private": false,
+  "owner": {
+    "login": "prathmeshparase",
+    "html_url": "https://github.com/prathmeshparase"
+  },
+  "html_url": "https://github.com/prathmeshparase/expressBookReviews",
+  "fork": true,
+  "url": "https://api.github.com/repos/prathmeshparase/expressBookReviews",
+  "parent": {
+    "name": "expressBookReviews",
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  },
+  "source": {
+    "name": "expressBookReviews",
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  }
+}
